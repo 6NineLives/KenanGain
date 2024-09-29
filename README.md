@@ -28,7 +28,7 @@
     </td>
     <td align="center">
       <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
-        <img src="" alt="Knight Gamer" width="100" height="100">
+        <img src="https://imgur.com/3C6CMuE.png" alt="Knight Gamer" width="100" height="100">
       </a>
     </td>
     <td align="center">
